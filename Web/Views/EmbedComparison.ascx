@@ -1,3 +1,3 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" Inherits="Groupdocs.EmbedComparison.EmbedComparison" %>
 
-<iframe src="http://apps.groupdocs.com/document-comparison/embed/<%= CompareKey %>/<%= CompareGuid %>?referer=Umbraco/1.0" frameborder="0" width="<%= FrameWidth %>" height="<%= FrameHeight %>"></iframe>
+<iframe src="http://apps.groupdocs.com/document-comparison/embed/<%= CompareKey %>/<%= CompareGuid %>?referer=Umbraco/1.0" frameborder="0" width="<%= FrameWidth %>" height="<%= FrameHeight %>">If you can see this text, your browser does not support iframes. Please enable iframe support in your browser or use the latest version of any popular web browsers such as Mozilla Firefox or Google Chrome. Learn how to<a href="http://groupdocs.com/apps/comparison">compare two Word documents</a>with GroupDocs Comparison application.</iframe>
